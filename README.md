@@ -44,7 +44,7 @@ Project Name: DOFO (Domain Forecasting)
 Role: Senior Full-stack Developer  
 Tech Stack: Laravel, PHP, MySQL, Vue.js, Vuetify, REST API  
 Company & Date: Appetiser Apps, Aug 2021 - Mar 2022  
-Project Description: This is a Saas product for budgeting, income, and expense forecasting. User can set recurring income and expenses and they can forecast their incomes and expenses for the next coming months. I single-handedly implemented the backend code using Laravel. I deployed the application using DigitalOcean and Laravel Forge.
+Project Description: This is a Saas product for budgeting, income, and expense forecasting. User can set recurring income and expenses and they can forecast their incomes and expenses for the next coming months. I single-handedly implemented the backend code using Laravel. I deployed the application using DigitalOcean and Laravel Forge. Reference: https://dofo.com.au
 
 
 Project Name: Canvas Living (Hotel Management App)  
@@ -58,14 +58,14 @@ Project Name: Avenue App
 Role: Senior Full-stack Developer  
 Tech Stack: Laravel, PHP, MySQL, Vue.js, Quasar Framework, REST API  
 Company & Date: Freelance, Mar 2020 - Dec 2021  
-Project Description: This is a mobile and web application where users can register and upload their contacts. Anyone who registered in Avenue can find their friends and add them as a friend in the app. Users can create different events and send invitations to their contacts and friends in the application. 
+Project Description: This is a mobile and web application where users can register and upload their contacts. Anyone who registered in Avenue can find their friends and add them as a friend in the app. Users can create different events and send invitations to their contacts and friends in the application. Reference: https://myavenueapp.com
 
 
 Project Name: The SignTracker  
 Role: Senior Full-stack Developer  
 Tech Stack: Laravel, PHP, MySQL, Vue.js, Quasar Framework, REST API, DigitalOcean  
 Company & Date: Cardan Marketing, Jan 2020 - Dec 2021  
-Project Description: The SignTracker is a mobile and web application to have an easy and efficient tool to create, and carry out Traffic Accommodation Strategies (TAS) and Traffic Accommodation Plans (TAP) in Canada. The purpose of The SignTracker is to automate many of the manual processes that make creating, updating and following TAS records troublesome. With our app, the contractors and subcontractors involved in a project will be able to seamlessly create TAS records and access all the project details, procedures, conditions and drawings in real-time. 
+Project Description: The SignTracker is a mobile and web application to have an easy and efficient tool to create, and carry out Traffic Accommodation Strategies (TAS) and Traffic Accommodation Plans (TAP) in Canada. The purpose of The SignTracker is to automate many of the manual processes that make creating, updating and following TAS records troublesome. With our app, the contractors and subcontractors involved in a project will be able to seamlessly create TAS records and access all the project details, procedures, conditions and drawings in real-time. Reference: https://thesigntracker.com
 
 
 Project Name: SEDP MI  
@@ -80,6 +80,7 @@ Role: Senior Full-stack Developer
 Tech Stack: Laravel, PHP, MySQL, Vue.js, Quasar Framework, REST API, DigitalOcean  
 Company & Date: SEDP Simbag sa Pag-asenso Inc, Jan 2021 - Mar 2021  
 Project Description: This is an internal system for SEDP employees to view and monitor their payslips from the time they were hired until the present period. Employees can also see their savings, and government benefit deductions in the system.
+
 
 Project Name: Medical Records Management System (MRMS)  
 Role: Senior Full-stack Developer  
