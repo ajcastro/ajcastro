@@ -24,7 +24,7 @@ Project Name: Ingenious.BUILD
 Role: Senior Full-stack Developer  
 Tech Stack: Laravel, PHP, MySQL, Vue.js, REST API, DigitalOcean  
 Company & Date: Ingenious.BUILD, Mar 2022 - Jun 2022  
-Project Description: This is an SaaS product for AECO industry (Architecture, Engineering, Construction and Operation). It is a Saas product to connect all architects, engineers, contractors and clients in one platform to streamline the process of construction from budgeting, planning, and executing contracts. Reference: (https://www.ingenious.build/)[https://www.ingenious.build/]
+Project Description: This is an SaaS product for AECO industry (Architecture, Engineering, Construction and Operation). It is a Saas product to connect all architects, engineers, contractors and clients in one platform to streamline the process of construction from budgeting, planning, and executing contracts. Reference: https://www.ingenious.build
 
 Project Name: TeleGaming  
 Role: Senior Full-stack Developer  
