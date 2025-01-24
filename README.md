@@ -31,7 +31,7 @@ Project Name: **Lush Rewards**
 Role: Senior Full-stack Engineer/Team Lead  
 Tech Stack: Laravel, PHP, MySQL, Vue.js, REST API, DigitalOcean, Azure  
 Company & Date: Passport Technology, August 2022 - January 2024  
-Project Description: Lush Rewards is a kiosk inside casinos that connects to the casino's gaming network. It retrieves the player's information and game activities to issue rewards to the player based on the points earneds from casino games.
+Project Description: Lush Rewards is a kiosk inside casinos that connects to the casino's gaming network. It retrieves the player's information and game activities to issue rewards to the player based on the points earneds from casino games. Reference: https://passporttechnology.com/lush-mira
 
 
 Project Name: **TeleGaming**  
