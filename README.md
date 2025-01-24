@@ -24,7 +24,7 @@ I have built many successful projects, that's why you can be confident with my s
 Project Name: **Ingenious.BUILD**  
 Role: Senior Full-stack Engineer/Team Lead  
 Tech Stack: Laravel, PHP, MySQL, Vue.js, REST API, DigitalOcean  
-Company & Date: Ingenious.BUILD, July 2022 - August 2024
+Company & Date: Ingenious.BUILD, July 2022 - August 2024  
 Project Description: This is a SaaS product for the AECO industry (Architecture, Engineering, Construction, and Operation). It is a Saas product that connects all architects, engineers, contractors, and clients in one platform to streamline the process of construction from budgeting, planning, and executing contracts. Reference: https://www.ingenious.build
 
 Project Name: **Lush Rewards**  
