@@ -24,8 +24,7 @@ Project Name: Ingenious.BUILD
 Role: Senior Full-stack Developer  
 Tech Stack: Laravel, PHP, MySQL, Vue.js, REST API, DigitalOcean  
 Company & Date: Ingenious.BUILD, Mar 2022 - Jun 2022  
-Project Description: This is a freelance project for an online multi-tenant gaming and casino platform for different casino customers. A casino can register a tenant workspace in the platform and create its own website where it can host its online gaming platform. Customers then register on the casino’s websites and can play different online casino games. I used Laravel for the REST API and main website pages and Vue for the SPA admin panel. I deployed this application using DigitalOcean and Ploi.
-
+Project Description: This is an SaaS product for AECO industry (Architecture, Engineering, Construction and Operation). It is a Saas product to connect all architects, engineers, contractors and clients in one platform to streamline the process of construction from budgeting, planning, and executing contracts. Reference: (https://www.ingenious.build/)[https://www.ingenious.build/]
 
 Project Name: TeleGaming  
 Role: Senior Full-stack Developer  
