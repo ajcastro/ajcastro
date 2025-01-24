@@ -22,10 +22,17 @@ I have built many successful projects, that's why you can be confident with my s
 ## Projects 💻
 
 Project Name: **Ingenious.BUILD**  
-Role: Senior Full-stack Developer  
+Role: Senior Full-stack Engineer/Team Lead  
 Tech Stack: Laravel, PHP, MySQL, Vue.js, REST API, DigitalOcean  
-Company & Date: Ingenious.BUILD, Mar 2022 - Jun 2022  
-Project Description: This is an SaaS product for AECO industry (Architecture, Engineering, Construction and Operation). It is a Saas product to connect all architects, engineers, contractors and clients in one platform to streamline the process of construction from budgeting, planning, and executing contracts. Reference: https://www.ingenious.build
+Company & Date: Ingenious.BUILD, July 2022 - August 2024
+Project Description: This is a SaaS product for the AECO industry (Architecture, Engineering, Construction, and Operation). It is a Saas product that connects all architects, engineers, contractors, and clients in one platform to streamline the process of construction from budgeting, planning, and executing contracts. Reference: https://www.ingenious.build
+
+Project Name: **Lush Rewards**  
+Role: Senior Full-stack Engineer/Team Lead  
+Tech Stack: Laravel, PHP, MySQL, Vue.js, REST API, DigitalOcean, Azure  
+Company & Date: Passport Technology, August 2022 - January 2024  
+Project Description: Lush Rewards is a kiosk inside casinos that connects to the casino's gaming network. It retrieves the player's information and game activities to issue rewards to the player based on the points earneds from casino games.
+
 
 Project Name: **TeleGaming**  
 Role: Senior Full-stack Developer  
