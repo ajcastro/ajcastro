@@ -2,7 +2,6 @@
 
 I am Arjon Jason Castro.  
 I am a Senior Full-stack Developer and a Team Lead.   
-I also have a team of web and mobile app developers. We do freelance website development, web apps, and mobile apps development.  
 You can reach out to me at ajcastro29@gmail.com for possible project collaboration.  
 
 I have 11 years of professional developer experience.   
