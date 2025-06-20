@@ -123,7 +123,7 @@ Project Name: **SEDP Reports**
 Role: Senior Full-stack Developer  
 Tech Stack: Laravel, PHP, MySQL, Vue.js, Quasar Framework, REST API  
 Company & Date: SEDP Simbag sa Pag-asenso, Inc., Jan 2019 - Dec 2019  
-Project Description: This is an online tool that collects and consolidates reports from SEDP’s different branch offices to generate graphs and visualizations for the managers' easy report generation.
+Project Description: This is an online tool that collects and consolidates reports from SEDP’s different branch offices to generate graphs and visualizations for the managers' easy report generation.   
 [See Photos](https://www.linkedin.com/in/ajcastro29/details/projects/1946216232/multiple-media-viewer/?profileId=ACoAACStuiwB-rgJHlC24y8FJ99twxd1RjJMtUk&treasuryMediaId=1724315318738)
 
 
