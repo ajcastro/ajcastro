@@ -38,7 +38,7 @@ Role: Senior Full-stack Developer
 Tech Stack: Laravel, PHP, MySQL, Vue.js, REST API, DigitalOcean  
 Company & Date: Freelance, Mar 2022 - Jun 2022  
 Project Description: This is a freelance project for an online multi-tenant gaming and casino platform for different casino customers. A casino can register a tenant workspace in the platform and create its own website where it can host its online gaming platform. Customers then register on the casino’s websites and can play different online casino games. I used Laravel for the REST API and main website pages and Vue for the SPA admin panel. I deployed this application using DigitalOcean and Ploi.   
-Photos: [https://www.linkedin.com/in/ajcastro29/details/projects/urn:li:fsd_profileProject:(ACoAACStuiwB-rgJHlC24y8FJ99twxd1RjJMtUk,332173576)/treasury/](https://www.linkedin.com/in/ajcastro29/details/projects/332173576/multiple-media-viewer/?profileId=ACoAACStuiwB-rgJHlC24y8FJ99twxd1RjJMtUk&treasuryMediaId=1729057138343)
+[See Photos](https://www.linkedin.com/in/ajcastro29/details/projects/332173576/multiple-media-viewer/?profileId=ACoAACStuiwB-rgJHlC24y8FJ99twxd1RjJMtUk&treasuryMediaId=1729057138343)
 
 Project Name: **BU Online Admission**  
 Role: Senior Full-stack Developer  
