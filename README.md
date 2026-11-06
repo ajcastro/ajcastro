@@ -24,7 +24,7 @@ Project Name: **ProvidersPro**
 Role: Team Lead/Senior Full-stack Engineer  
 Tech Stack: Laravel/PHP, PostgreSQL, Vue.js, Vuetify  
 Company & Date: ProvidersPro, July 2025 - October 2025  
-Project Description: ProvidersPro is a startup company for NDIS providers in Australia where support workers can log their worked case notes on their clients. From the logged case notes, the accounting department can send invoices to clients so support workers receive payment for the case notes.
+Project Description: ProvidersPro is a startup company for NDIS providers in Australia where support workers can log their worked case notes on their clients. From the logged case notes, the accounting department can send invoices to clients so support workers receive payment for the case notes. https://providerspro.com.au
 
 Project Name: **Lease Originating System (LOS)**  
 Role: Team Lead/Senior Full-stack Engineer  
