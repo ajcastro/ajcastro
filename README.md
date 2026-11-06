@@ -22,7 +22,7 @@ I have built many successful projects, that's why you can be confident with my s
 
 Project Name: **ProvidersPro**  
 Role: Team Lead/Senior Full-stack Engineer  
-Tech Stack: Laravel/PHP, PostgreSQL, Vue.js, Vuetify
+Tech Stack: Laravel/PHP, PostgreSQL, Vue.js, Vuetify  
 Company & Date: ProvidersPro, July 2025 - October 2025
 Project Description: ProvidersPro is a startup company for NDIS providers in Australia where support workers can log their worked case notes on their clients. From the logged case notes, the accounting department can send invoices to clients so support workers receive payment for the case notes.
 
