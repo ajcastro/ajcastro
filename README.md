@@ -20,14 +20,20 @@ I have built many successful projects, that's why you can be confident with my s
 
 ## Projects 💻
 
+Project Name: **Lease Originating System (LOS)**  
+Role: Team Lead/Senior Full-stack Engineer  
+Tech Stack: Laravel/PHP, PostgreSQL, FilamentPHP, TALL-stack(Tailwind, Alpine, Laravel, Livewire)  
+Company & Date: Copias Data Tech Solutions, November 2024 - December 2025
+Project Description: This is a client-based internal system for Toyota Philippines where the Toyota staff initiates the process on recording the car lease of their customers. This handles different combinations of the car lease options that the customer can avail. This internal system also handles the different levels of approvals depending of the car lease options.
+
 Project Name: **Ingenious.BUILD**  
-Role: Senior Full-stack Engineer/Team Lead  
-Tech Stack: Laravel, PHP, MySQL, Vue.js, REST API, DigitalOcean  
+Role: Team Lead/Senior Full-stack Engineer  
+Tech Stack: Laravel/PHP, MySQL, Vue.js, REST API, DigitalOcean  
 Company & Date: Ingenious.BUILD, July 2022 - August 2024  
 Project Description: This is a SaaS product for the AECO industry (Architecture, Engineering, Construction, and Operation). It is a Saas product that connects all architects, engineers, contractors, and clients in one platform to streamline the process of construction from budgeting, planning, and executing contracts. Reference: https://www.ingenious.build
 
 Project Name: **Lush Rewards**  
-Role: Senior Full-stack Engineer/Team Lead  
+Role: Team Lead/Senior Full-stack Engineer
 Tech Stack: Laravel, PHP, MySQL, Vue.js, REST API, DigitalOcean, Azure  
 Company & Date: Passport Technology, August 2022 - January 2024  
 Project Description: Lush Rewards is a kiosk inside casinos that connects to the casino's gaming network. It retrieves the player's information and game activities to issue rewards to the player based on the points earneds from casino games. Reference: https://passporttechnology.com/lush-mira
